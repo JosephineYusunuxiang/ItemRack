@@ -1,4 +1,4 @@
-ItemRack插件（_classic_era）3.75汉化版
+ItemRack插件（_classic_era）3.75汉化版  
     核心功能插件    
   本人(玉素奴香@哈霍兰CN)已汉化该版适配1.14.3客户端。其他版本游戏未知。
 
