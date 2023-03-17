@@ -10,7 +10,7 @@
 
   宏/ItemRack equip 套装名  
   宏/ItemRack toggle 套装名1,套装名2  
-  装备或切换套装。  
+  装备或切换套装。    
     压缩包里ItemRack和ItemRackOptions两个文件夹都须放入World of Warcraft\_classic_era_\Interface\AddOns文件夹中  
 
   目前插件维护者Rottenbeer的仓库地址https://github.com/Rottenbeer/ItemRack/releases   
