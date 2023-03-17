@@ -14,6 +14,6 @@
   
     压缩包里ItemRack和ItemRackOptions两个文件夹都须放入World of Warcraft\_classic_era_\Interface\AddOns文件夹中  
 
-  目前插件维护者Rottenbeer的仓库地址https://github.com/Rottenbeer/ItemRack/releases   
+  目前插件维护者Rottenbeer的仓库地址https://github.com/Rottenbeer/ItemRack 
 
-  我的个人仓库https://github.com/JosephineYusunuxiang  
+  我的个人仓库https://github.com/JosephineYusunuxiang/ItemRack  
