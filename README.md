@@ -1,4 +1,4 @@
-    ItemRack插件（_classic_era）3.75汉化版    
+#ItemRack插件（_classic_era）3.75汉化版    
   核心功能插件。  
     
   本人(玉素奴香@哈霍兰CN)已汉化该版适配1.14.3客户端。其他版本游戏未知。
@@ -12,8 +12,8 @@
   宏/ItemRack toggle 套装名1,套装名2  
   装备或切换套装。 
   
-    压缩包里ItemRack和ItemRackOptions两个文件夹都须放入World of Warcraft\_classic_era_\Interface\AddOns文件夹中  
+  压缩包里ItemRack和ItemRackOptions两个文件夹都须放入_classic_era_的AddOns文件夹中  
 
-  目前插件维护者Rottenbeer的仓库地址https://github.com/Rottenbeer/ItemRack 
+  目前插件维护者Rottenbeer的仓库地址https://github.com/Rottenbeer/ItemRack  
 
   我的个人仓库https://github.com/JosephineYusunuxiang/ItemRack  
