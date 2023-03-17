@@ -1,0 +1,15 @@
+## Interface: 11403
+## Title: ItemRackOptions
+## Notes: Load-On-Demand modules for ItemRack
+## Dependencies: ItemRack, Blizzard_MacroUI
+## LoadOnDemand: 1
+## X-Curse-Project-ID: 340903
+
+# Libraries
+Libs\Libs.xml
+
+ItemRackOptions.lua
+ItemRackOptions.xml
+
+## Title-zhCN: |cffffffff[玉素]|r ItemRackOptions |cffff7d0a自动换装设置依赖包|r
+## Notes-zhCN: |n |cff32CD99ItemRack插件的设置部分依赖包 |n|n 个人仓库：https://github.com/JosephineYusunuxiang |r
